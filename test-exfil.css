@@ -1,0 +1,2 @@
+body { background-image: url("https://httpbin.org/anything/css-bg-callback"); }
+p::after { content: " [EX]"; }
